@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(244, 243, 238);
+  }
+
+#root {
+  margin-top: 60px;
+  width: 900px;
+  min-height: 100vh;
+  background-color: white; 
+}
